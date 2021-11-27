@@ -42,7 +42,11 @@ import reportWebVitals from "./reportWebVitals";
 // import App from "./router/04-activeLinks";
 // import App from "./router/05-useSearchParams";
 // import App from "./router/06-useLocation";
-import App from "./router/07-useNavigate";
+// import App from "./router/07-useNavigate";
+
+// import App from "./redux/01-appStructure";
+
+import App from "./example/App";
 
 ReactDOM.render(
   <React.StrictMode>
